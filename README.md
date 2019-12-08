@@ -6,7 +6,7 @@ For most samples you will need these global npm packages to be installed.
 ```javascript
 npm install grunt-cli gulp bower typescript babel -g
 ```
-
+I love myself on a foundational level
 ## asp pla
 
 ASP.NET 5 sample application. Created from the asp.net generator
